@@ -1,9 +1,6 @@
 # Node File System
 
-1. [./commonjs-modules](./commonjs-modules)
-2. [./process-argv](./process-argv)
-3. [./file-system](./file-system)
-4. [./command-line-applications](./command-line-applications)
+Learn to build simple CLI apps that access the file system.
 
 ## Video Guides
 
